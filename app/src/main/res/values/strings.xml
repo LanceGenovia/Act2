@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Act2</string>
+
+    <string name="Pokemon">
+
+        Name:Greninja
+        Type:Water/dark
+
+        Welcome Trainer this will be your pokemon for today
+
+
+
+
+
+    </string>
+
+
+
+
+
+
+
+</resources>
